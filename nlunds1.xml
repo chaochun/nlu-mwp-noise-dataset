@@ -65,6 +65,36 @@
 		<SolutionType>Addition</SolutionType>
 		<Question>Melanie grew 139 turnips . Vince grew 348 tomatoes . Benny grew 113 turnips . How many turnips did they grow in all ?</Question>
 	</Problem>
+	<Problem ID="msds-1015">
+		<Formula>X = 5.20 + 4.23</Formula>
+		<Answer>9.43</Answer>
+		<SolutionType>Addition</SolutionType>
+		<Question>Joan wanted playing video games. One day, Joan purchased a basketball game for $ 5.20 , and a racing game for $ 4.23 . Judy purchased a basketball game for $ 3.50 . How much did Joan spend on video games ?</Question>
+	</Problem>
+	<Problem ID="msds-1016">
+		<Formula>X = 5.20 + 4.23</Formula>
+		<Answer>9.43</Answer>
+		<SolutionType>Addition</SolutionType>
+		<Question>Joan wanted playing video games. One day, Joan purchased a basketball game for $ 5.20 , and a racing game for $ 4.23 . Tom purchased a pair of shoes for $ 40.8 . How much did Joan spend on video games ?</Question>
+	</Problem>
+	<Problem ID="msds-1017">
+		<Formula>X = 5.20 + 4.23</Formula>
+		<Answer>9.43</Answer>
+		<SolutionType>Addition</SolutionType>
+		<Question>Tom purchased a pair of shoes for $ 40.8 . Joan wanted playing video games. One day, Joan purchased a basketball game for $ 5.20 , and a racing game for $ 4.23 . How much did Joan spend on video games ?</Question>
+	</Problem>
+	<Problem ID="msds-1022">
+		<Formula>X = 3884.0 + 2871.0</Formula>
+		<Answer>6755</Answer>
+		<SolutionType>Addition</SolutionType>
+		<Question>A car company produced 3884 cars in North America and 2871 cars in Europe . The car company produced 300 airplanes . How many cars is that in all ?</Question>
+	</Problem>
+	<Problem ID="msds-1023">
+		<Formula>X = 3884.0 + 2871.0</Formula>
+		<Answer>6755</Answer>
+		<SolutionType>Addition</SolutionType>
+		<Question>The company produced 300 airplanes . A car company produced 3884 cars in North America and 2871 cars in Europe . How many cars is that in all ?</Question>
+	</Problem>
 	<Problem ID="msds-1024">
 		<Formula>X = 14507.0 + 213.0</Formula>
 		<Answer>14720</Answer>
@@ -245,12 +275,6 @@
 		<SolutionType>Subtraction</SolutionType>
 		<Question>Gavin has 23 shirts. 6 are blue the rest are green but 27 brown shirts in another box. How many green shirts does Gavin have?</Question>
 	</Problem>
-	<Problem ID="msds-1072">
-		<Formula>X=117.0-40.0</Formula>
-		<Answer>77</Answer>
-		<SolutionType>Subtraction</SolutionType>
-		<Question>There are 40 boys and some girls on the playground . And there are 70 parents . There are 117 children altogether . How many girls are on the playground ?</Question>
-	</Problem>
 	<Problem ID="msds-1073">
 		<Formula>X=388.0-223.0</Formula>
 		<Answer>165</Answer>
@@ -293,18 +317,6 @@
 		<SolutionType>Subtraction</SolutionType>
 		<Question>Mike has 87 baseball cards and 57 basketball cards . Sam bought 13 of Mike 's baseball cards . How many baseball cards does Mike have now ?</Question>
 	</Problem>
-	<Problem ID="msds-1084">
-		<Formula>X = 33 - 18</Formula>
-		<Answer>15</Answer>
-		<SolutionType>Subtraction</SolutionType>
-		<Question>There are 33 oak trees currently in the park . Park workers had to cut down 18 oak trees that were damaged . Ted generates 64 cakes . How many oak trees will be in the park when the workers are finished ?</Question>
-	</Problem>
-	<Problem ID="msds-1085">
-		<Formula>X = 33 - 18</Formula>
-		<Answer>15</Answer>
-		<SolutionType>Subtraction</SolutionType>
-		<Question>There are 33 oak trees and 12 lemon trees currently in the park . Park workers had to cut down 18 oak trees that were damaged . How many oak trees will be in the park when the workers are finished ?</Question>
-	</Problem>
 	<Problem ID="msds-1086">
 		<Formula>X = 64 - 14</Formula>
 		<Answer>50</Answer>
@@ -334,6 +346,24 @@
 		<Answer>23</Answer>
 		<SolutionType>Subtraction</SolutionType>
 		<Question>Joyce starts with 75 apples . She gives 52 to Larry . Cathy bought 25 bananas . How many apples does Joyce end with ?</Question>
+	</Problem>
+	<Problem ID="msds-1091">
+		<Formula>X=210.0-58.0</Formula>
+		<Answer>152</Answer>
+		<SolutionType>Subtraction</SolutionType>
+		<Question>Marcus has 210 baseball cards . He has 58 more than Carter . Allen also has 150 baseball cards . How many baseball cards does Carter have ?</Question>
+	</Problem>
+	<Problem ID="msds-1092">
+		<Formula>X=210.0-58.0</Formula>
+		<Answer>152</Answer>
+		<SolutionType>Subtraction</SolutionType>
+		<Question>Marcus has 210 baseball cards . He has 58 more than Carter . Peggie buys 12 books . How many baseball cards does Carter have ?</Question>
+	</Problem>
+	<Problem ID="msds-1093">
+		<Formula>X=210.0-58.0</Formula>
+		<Answer>152</Answer>
+		<SolutionType>Subtraction</SolutionType>
+		<Question>Marcus has 210 baseball cards . He has 58 more than Carter and has extra 3 basketball cards . How many baseball cards does Carter have ?</Question>
 	</Problem>
 	<Problem ID="msds-1094">
 		<Formula>X = 3263.0 - 809.0</Formula>
@@ -485,53 +515,11 @@
 		<SolutionType>Multiplication</SolutionType>
 		<Question>1 pineapple and apple can be involved in 1 popular song . It takes 4 apples to make 1 pie . How many apples does it take to make 504 pies ?</Question>
 	</Problem>
-	<Problem ID="msds-1134">
-		<Formula>X=6.0*34.0</Formula>
-		<Answer>204</Answer>
-		<SolutionType>Multiplication</SolutionType>
-		<Question>6 students were sitting at each table in the lunchroom . There are 34 tables . 9 teachers were sitting at each table in the lunchroom . How many students were sitting in the lunchroom ?</Question>
-	</Problem>
 	<Problem ID="msds-1141">
 		<Formula>X=25.0*247.0</Formula>
 		<Answer>6175</Answer>
 		<SolutionType>Multiplication</SolutionType>
 		<Question>Lansing has 25 elementary schools and 10 colleges . There are 247 students in each school . How many elementary students are there altogether in Lansing ?</Question>
-	</Problem>
-	<Problem ID="msds-1146">
-		<Formula>X=6.0*50.0</Formula>
-		<Answer>300</Answer>
-		<SolutionType>Multiplication</SolutionType>
-		<Question>Mrs. Hilt bought 6 hot dogs . Each hot dog cost 50 cents . Andy also bought 4 hot dogs . How much money did she pay for all of the hot dogs ?</Question>
-	</Problem>
-	<Problem ID="msds-1147">
-		<Formula>X=6.0*50.0</Formula>
-		<Answer>300</Answer>
-		<SolutionType>Multiplication</SolutionType>
-		<Question>Mrs. Hilt bought 6 hot dogs . Each hot dog cost 50 cents . Dan took 3 days to travel . How much money did she pay for all of the hot dogs ?</Question>
-	</Problem>
-	<Problem ID="msds-1148">
-		<Formula>X=6.0*50.0</Formula>
-		<Answer>300</Answer>
-		<SolutionType>Multiplication</SolutionType>
-		<Question>Mrs. Hilt bought 6 hot dogs and adopted 2 guide dogs . Each hot dog cost 50 cents . How much money did she pay for all of the hot dogs ?</Question>
-	</Problem>
-	<Problem ID="msds-1149">
-		<Formula>X=6.0*71.0</Formula>
-		<Answer>426</Answer>
-		<SolutionType>Multiplication</SolutionType>
-		<Question>White t-shirts can be purchased in packages of 6 . Mike also dressed 1 white t-shirt . If Mom buys 71 packages , how many white t-shirts will she have ?</Question>
-	</Problem>
-	<Problem ID="msds-1150">
-		<Formula>X=6.0*71.0</Formula>
-		<Answer>426</Answer>
-		<SolutionType>Multiplication</SolutionType>
-		<Question>White t-shirts can be purchased in packages of 6 . Tom bought 8 pants . If Mom buys 71 packages , how many white t-shirts will she have ?</Question>
-	</Problem>
-	<Problem ID="msds-1151">
-		<Formula>X=6.0*71.0</Formula>
-		<Answer>426</Answer>
-		<SolutionType>Multiplication</SolutionType>
-		<Question>White t-shirts can be purchased in packages of 6 and blue t-shirts can be purchased in packages of 5 . If Mom buys 71 packages , how many white t-shirts will she have ?</Question>
 	</Problem>
 	<Problem ID="msds-1152">
 		<Formula>X=150.0*15.0</Formula>
@@ -1049,30 +1037,6 @@
 		<SolutionType>Addition</SolutionType>
 		<Question>Megan had 49 black markers and 22 red markers . Robert gave her 39 more black markers . How many black markers does Megan have altogether ?</Question>
 	</Problem>
-	<Problem ID="msds-1274">
-		<Formula>X=403.0+287.0</Formula>
-		<Answer>690</Answer>
-		<SolutionType>Addition</SolutionType>
-		<Question>Mariela was in the hospital and she got 403 yellow get-well cards from around the country . When she got home she got 287 more yellow get-well cards from friends and family . Sam bought 5 balls . How many g yellow get-well cards did Mariela get ?</Question>
-	</Problem>
-	<Problem ID="msds-1275">
-		<Formula>X=403.0+287.0</Formula>
-		<Answer>690</Answer>
-		<SolutionType>Addition</SolutionType>
-		<Question>Sam bought 5 balls . Mariela was in the hospital and she got 403 yellow get-well cards from around the country . When she got home she got 287 more yellow get-well cards from friends and family . How many g yellow get-well cards did Mariela get ?</Question>
-	</Problem>
-	<Problem ID="msds-1276">
-		<Formula>X=403.0+287.0</Formula>
-		<Answer>690</Answer>
-		<SolutionType>Addition</SolutionType>
-		<Question>Mariela was in the hospital and she got 403 yellow get-well cards from around the country . When she got home she got 287 more yellow get-well cards from friends and family . Joy got 10 get-well cards . How many g yellow get-well cards did Mariela get ?</Question>
-	</Problem>
-	<Problem ID="msds-1277">
-		<Formula>X=403.0+287.0</Formula>
-		<Answer>690</Answer>
-		<SolutionType>Addition</SolutionType>
-		<Question>Mariela was in the hospital and she got 403 yellow get-well cards and 20 red get-well cards . from around the country . When she got home she got 287 more yellow get-well cards from friends and family . How many g yellow get-well cards did Mariela get ?</Question>
-	</Problem>
 	<Problem ID="msds-1278">
 		<Formula>X=10.0-3.0</Formula>
 		<Answer>7</Answer>
@@ -1265,30 +1229,6 @@
 		<SolutionType>Multiplication</SolutionType>
 		<Question>Your class is having a pizza party . You buy 5 cheese pizzas and 6 spicy pizzas . Each cheese pizza has 4 slices . How many slices is that altogether ?</Question>
 	</Problem>
-	<Problem ID="msds-1310">
-		<Formula>X=39.0+25.0</Formula>
-		<Answer>64</Answer>
-		<SolutionType>Addition</SolutionType>
-		<Question>Connie has 39 brown marbles . Juan has 25 more brown marbles than Connie . John has 12 hats . How many brown marbles does Juan have ?</Question>
-	</Problem>
-	<Problem ID="msds-1311">
-		<Formula>X=39.0+25.0</Formula>
-		<Answer>64</Answer>
-		<SolutionType>Addition</SolutionType>
-		<Question>John has 12 hats . Connie has 39 brown marbles . Juan has 25 more brown marbles than Connie . How many brown marbles does Juan have ?</Question>
-	</Problem>
-	<Problem ID="msds-1312">
-		<Formula>X=39.0+25.0</Formula>
-		<Answer>64</Answer>
-		<SolutionType>Addition</SolutionType>
-		<Question>Connie has 39 brown marbles . Juan has 25 more brown marbles than Connie . Mike also has 30 marbles . How many brown marbles does Juan have ?</Question>
-	</Problem>
-	<Problem ID="msds-1313">
-		<Formula>X=39.0+25.0</Formula>
-		<Answer>64</Answer>
-		<SolutionType>Addition</SolutionType>
-		<Question>Connie has 39 brown marbles and 11 green marbles . Juan has 25 more brown marbles than Connie . How many brown marbles does Juan have ?</Question>
-	</Problem>
 	<Problem ID="msds-1314">
 		<Formula>X=38.0+10.0</Formula>
 		<Answer>48</Answer>
@@ -1312,30 +1252,6 @@
 		<Answer>48</Answer>
 		<SolutionType>Addition</SolutionType>
 		<Question>There are 38 heavy books and 22 thin books on the shelf . Marta put 10 more heavy books on the shelf . How many heavy books are on the shelf now ?</Question>
-	</Problem>
-	<Problem ID="msds-1318">
-		<Formula>X=31.0+19.0</Formula>
-		<Answer>50</Answer>
-		<SolutionType>Addition</SolutionType>
-		<Question>Charlie has 31 more big snowballs than Lucy . She has 19 big snowballs . Nick gets 2 baseballs . How many big snowballs does Charlie have ?</Question>
-	</Problem>
-	<Problem ID="msds-1319">
-		<Formula>X=31.0+19.0</Formula>
-		<Answer>50</Answer>
-		<SolutionType>Addition</SolutionType>
-		<Question>Nick gets 2 baseballs . Charlie has 31 more big snowballs than Lucy . She has 19 big snowballs . How many big snowballs does Charlie have ?</Question>
-	</Problem>
-	<Problem ID="msds-1320">
-		<Formula>X=31.0+19.0</Formula>
-		<Answer>50</Answer>
-		<SolutionType>Addition</SolutionType>
-		<Question>Charlie has 31 more big snowballs than Lucy . She has 19 big snowballs . Dan has 11 snowballs . How many big snowballs does Charlie have ?</Question>
-	</Problem>
-	<Problem ID="msds-1321">
-		<Formula>X=31.0+19.0</Formula>
-		<Answer>50</Answer>
-		<SolutionType>Addition</SolutionType>
-		<Question>Charlie has 31 more big snowballs and 21 more small snowballs than Lucy . She has 19 big snowballs . How many big snowballs does Charlie have ?</Question>
 	</Problem>
 	<Problem ID="msds-1322">
 		<Formula>X=65899.0+119.0</Formula>
@@ -1673,54 +1589,6 @@
 		<SolutionType>Addition</SolutionType>
 		<Question>Paul had 42 beautiful strawberries and 2 ugly strawberries in his basket . He picked 78 more beautiful strawberries . How many beautiful strawberries did Paul have then ?</Question>
 	</Problem>
-	<Problem ID="msds-1378">
-		<Formula>X=31.0+22.0</Formula>
-		<Answer>53</Answer>
-		<SolutionType>Addition</SolutionType>
-		<Question>Ethan has 31 big presents . Alissa has 22 more big presents than Ethan . Helen has 11 packages . How many big presents does Alissa have ?</Question>
-	</Problem>
-	<Problem ID="msds-1379">
-		<Formula>X=31.0+22.0</Formula>
-		<Answer>53</Answer>
-		<SolutionType>Addition</SolutionType>
-		<Question>Helen has 11 packages . Ethan has 31 big presents . Alissa has 22 more big presents than Ethan . How many big presents does Alissa have ?</Question>
-	</Problem>
-	<Problem ID="msds-1380">
-		<Formula>X=31.0+22.0</Formula>
-		<Answer>53</Answer>
-		<SolutionType>Addition</SolutionType>
-		<Question>Ethan has 31 big presents . Alissa has 22 more big presents than Ethan . Anthony receives 3 presents . How many big presents does Alissa have ?</Question>
-	</Problem>
-	<Problem ID="msds-1381">
-		<Formula>X=31.0+22.0</Formula>
-		<Answer>53</Answer>
-		<SolutionType>Addition</SolutionType>
-		<Question>Ethan has 31 big presents and 12 small presents . Alissa has 22 more big presents than Ethan . How many big presents does Alissa have ?</Question>
-	</Problem>
-	<Problem ID="msds-1382">
-		<Formula>X=13.0+38.0</Formula>
-		<Answer>51</Answer>
-		<SolutionType>Addition</SolutionType>
-		<Question>Sarah had some trucks . She gave 13 black trucks to Jeff , and now she has 38 black trucks left . Irving had 10 cars . How many black trucks did Sarah have to start with ?</Question>
-	</Problem>
-	<Problem ID="msds-1383">
-		<Formula>X=13.0+38.0</Formula>
-		<Answer>51</Answer>
-		<SolutionType>Addition</SolutionType>
-		<Question>Irving had 10 cars . Sarah had some trucks . She gave 13 black trucks to Jeff , and now she has 38 black trucks left . How many black trucks did Sarah have to start with ?</Question>
-	</Problem>
-	<Problem ID="msds-1384">
-		<Formula>X=13.0+38.0</Formula>
-		<Answer>51</Answer>
-		<SolutionType>Addition</SolutionType>
-		<Question>Sarah had some trucks . She gave 13 black trucks to Jeff , and now she has 38 black trucks left . Jackson had 9 trucks . How many black trucks did Sarah have to start with ?</Question>
-	</Problem>
-	<Problem ID="msds-1385">
-		<Formula>X=13.0+38.0</Formula>
-		<Answer>51</Answer>
-		<SolutionType>Addition</SolutionType>
-		<Question>Sarah had some trucks . She gave 13 black trucks and 5 blue trucks to Jeff , and now she has 38 black trucks left . How many black trucks did Sarah have to start with ?</Question>
-	</Problem>
 	<Problem ID="msds-1386">
 		<Formula>X=73.0+70.0</Formula>
 		<Answer>143</Answer>
@@ -1817,30 +1685,6 @@
 		<SolutionType>Subtraction</SolutionType>
 		<Question>Marie starts with 95 white erasers . She loses 42 white erasers . How many white erasers does Marie end with ?</Question>
 	</Problem>
-	<Problem ID="msds-1402">
-		<Formula>X=76.0-5.0</Formula>
-		<Answer>71</Answer>
-		<SolutionType>Subtraction</SolutionType>
-		<Question>Patricia starts with 76 yellow candies . Albert takes 5 yellow candies away . Simpson eats 3 hamburgers . How many yellow candies does Patricia end with ?</Question>
-	</Problem>
-	<Problem ID="msds-1403">
-		<Formula>X=76.0-5.0</Formula>
-		<Answer>71</Answer>
-		<SolutionType>Subtraction</SolutionType>
-		<Question>Simpson eats 3 hamburgers . Patricia starts with 76 yellow candies . Albert takes 5 yellow candies away . How many yellow candies does Patricia end with ?</Question>
-	</Problem>
-	<Problem ID="msds-1404">
-		<Formula>X=76.0-5.0</Formula>
-		<Answer>71</Answer>
-		<SolutionType>Subtraction</SolutionType>
-		<Question>Patricia starts with 76 yellow candies . Albert takes 5 yellow candies away . Roy has 4 candies . How many yellow candies does Patricia end with ?</Question>
-	</Problem>
-	<Problem ID="msds-1405">
-		<Formula>X=76.0-5.0</Formula>
-		<Answer>71</Answer>
-		<SolutionType>Subtraction</SolutionType>
-		<Question>Patricia starts with 76 yellow candies and 34 pink candies . Albert takes 5 yellow candies away . How many yellow candies does Patricia end with ?</Question>
-	</Problem>
 	<Problem ID="msds-1406">
 		<Formula>X=7.0*7.0</Formula>
 		<Answer>49</Answer>
@@ -1889,30 +1733,6 @@
 		<SolutionType>Multiplication</SolutionType>
 		<Question>Mrs. Hilt reads 5 heavy books and 2 thin books a day . How many heavy books does Mrs. Hilt read in 3 days ?</Question>
 	</Problem>
-	<Problem ID="msds-1414">
-		<Formula>X=144.0*3.0</Formula>
-		<Answer>432</Answer>
-		<SolutionType>Multiplication</SolutionType>
-		<Question>Mrs. Hilt saw 144 big bees in the hive . The next day she saw 3 times that many . Vicky fed 6 dogs . How many big bees did Mrs. Hilt see on the second day ?</Question>
-	</Problem>
-	<Problem ID="msds-1415">
-		<Formula>X=144.0*3.0</Formula>
-		<Answer>432</Answer>
-		<SolutionType>Multiplication</SolutionType>
-		<Question>Vicky fed 6 dogs . Mrs. Hilt saw 144 big bees in the hive . The next day she saw 3 times that many . How many big bees did Mrs. Hilt see on the second day ?</Question>
-	</Problem>
-	<Problem ID="msds-1416">
-		<Formula>X=144.0*3.0</Formula>
-		<Answer>432</Answer>
-		<SolutionType>Multiplication</SolutionType>
-		<Question>Mrs. Hilt saw 144 big bees in the hive . The next day she saw 3 times that many . John saw 100 bees . How many big bees did Mrs. Hilt see on the second day ?</Question>
-	</Problem>
-	<Problem ID="msds-1417">
-		<Formula>X=144.0*3.0</Formula>
-		<Answer>432</Answer>
-		<SolutionType>Multiplication</SolutionType>
-		<Question>Mrs. Hilt saw 144 big bees and 56 small bees in the hive . The next day she saw 3 times that many . How many big bees did Mrs. Hilt see on the second day ?</Question>
-	</Problem>
 	<Problem ID="msds-1418">
 		<Formula>X=12.0/3.0</Formula>
 		<Answer>4</Answer>
@@ -1936,78 +1756,6 @@
 		<Answer>4</Answer>
 		<SolutionType>CommonDiv</SolutionType>
 		<Question>Marlee has 12 handsome guests and 8 ugly guests coming to her Halloween party . Each table will hold 3 handsome guests . How many tables will Marlee need ?</Question>
-	</Problem>
-	<Problem ID="msds-1422">
-		<Formula>X=2.0+2.0</Formula>
-		<Answer>4</Answer>
-		<SolutionType>Addition</SolutionType>
-		<Question>Michelle has 2 green crayons . Janet has 2 green crayons . Wendy takes 10 pens . If Janet gives all of her crayons to Michelle , how many green crayons will Michelle have ?</Question>
-	</Problem>
-	<Problem ID="msds-1423">
-		<Formula>X=2.0+2.0</Formula>
-		<Answer>4</Answer>
-		<SolutionType>Addition</SolutionType>
-		<Question>Wendy takes 10 pens . Michelle has 2 green crayons . Janet has 2 green crayons . If Janet gives all of her crayons to Michelle , how many green crayons will Michelle have ?</Question>
-	</Problem>
-	<Problem ID="msds-1424">
-		<Formula>X=2.0+2.0</Formula>
-		<Answer>4</Answer>
-		<SolutionType>Addition</SolutionType>
-		<Question>Michelle has 2 green crayons . Janet has 2 green crayons . Tyler has 5 crayons . If Janet gives all of her crayons to Michelle , how many green crayons will Michelle have ?</Question>
-	</Problem>
-	<Problem ID="msds-1425">
-		<Formula>X=2.0+2.0</Formula>
-		<Answer>4</Answer>
-		<SolutionType>Addition</SolutionType>
-		<Question>Michelle has 2 green crayons and 4 red crayons . Janet has 2 green crayons . If Janet gives all of her crayons to Michelle , how many green crayons will Michelle have ?</Question>
-	</Problem>
-	<Problem ID="msds-1426">
-		<Formula>X=2.0+99.0</Formula>
-		<Answer>101</Answer>
-		<SolutionType>Addition</SolutionType>
-		<Question>Gloria has 2 blue pencils. Lisa has 99 blue pencils . Nick eats 5 breads . If Lisa gives all of her pencils to Gloria , how many blue pencils will Gloria have ?</Question>
-	</Problem>
-	<Problem ID="msds-1427">
-		<Formula>X=2.0+99.0</Formula>
-		<Answer>101</Answer>
-		<SolutionType>Addition</SolutionType>
-		<Question>Nick eats 5 breads . Gloria has 2 blue pencils. Lisa has 99 blue pencils . If Lisa gives all of her pencils to Gloria , how many blue pencils will Gloria have ?</Question>
-	</Problem>
-	<Problem ID="msds-1428">
-		<Formula>X=2.0+99.0</Formula>
-		<Answer>101</Answer>
-		<SolutionType>Addition</SolutionType>
-		<Question>Gloria has 2 blue pencils. Lisa has 99 blue pencils . Victoria buys 20 pencils . If Lisa gives all of her pencils to Gloria , how many blue pencils will Gloria have ?</Question>
-	</Problem>
-	<Problem ID="msds-1429">
-		<Formula>X=2.0+99.0</Formula>
-		<Answer>101</Answer>
-		<SolutionType>Addition</SolutionType>
-		<Question>Gloria has 2 blue pencils and 3 black pencils . Lisa has 99 blue pencils . If Lisa gives all of her pencils to Gloria , how many blue pencils will Gloria have ?</Question>
-	</Problem>
-	<Problem ID="msds-1430">
-		<Formula>X=2.0+26.0</Formula>
-		<Answer>28</Answer>
-		<SolutionType>Addition</SolutionType>
-		<Question>Martha has 2 red peanuts . Joyce has 26 red peanuts . Toby has 4 marbles . If Joyce gives all of her peanuts to Martha , how many red peanuts will Martha have ?</Question>
-	</Problem>
-	<Problem ID="msds-1431">
-		<Formula>X=2.0+26.0</Formula>
-		<Answer>28</Answer>
-		<SolutionType>Addition</SolutionType>
-		<Question>Toby has 4 marbles . Martha has 2 red peanuts . Joyce has 26 red peanuts . If Joyce gives all of her peanuts to Martha , how many red peanuts will Martha have ?</Question>
-	</Problem>
-	<Problem ID="msds-1432">
-		<Formula>X=2.0+26.0</Formula>
-		<Answer>28</Answer>
-		<SolutionType>Addition</SolutionType>
-		<Question>Martha has 2 red peanuts . Joyce has 26 red peanuts . Sally eats 14 peanuts . If Joyce gives all of her peanuts to Martha , how many red peanuts will Martha have ?</Question>
-	</Problem>
-	<Problem ID="msds-1433">
-		<Formula>X=2.0+26.0</Formula>
-		<Answer>28</Answer>
-		<SolutionType>Addition</SolutionType>
-		<Question>Martha has 2 red peanuts and 10 white peanuts . Joyce has 26 red peanuts . If Joyce gives all of her peanuts to Martha , how many red peanuts will Martha have ?</Question>
 	</Problem>
 	<Problem ID="msds-1434">
 		<Formula>X=57.0+95.0</Formula>
@@ -2105,30 +1853,6 @@
 		<SolutionType>Addition</SolutionType>
 		<Question>On the first day of the week Pat had 39 small stickers and 21 big stickers . Pat earned 22 more small stickers during the week . How many small stickers did Pat have at the end of the week ?</Question>
 	</Problem>
-	<Problem ID="msds-1450">
-		<Formula>X=85.0+48.0</Formula>
-		<Answer>133</Answer>
-		<SolutionType>Addition</SolutionType>
-		<Question>Jose has 85 red peanuts . Kenya has 48 more red peanuts than Jose . Tim buys 10 watches . How many red peanuts does Kenya have ?</Question>
-	</Problem>
-	<Problem ID="msds-1451">
-		<Formula>X=85.0+48.0</Formula>
-		<Answer>133</Answer>
-		<SolutionType>Addition</SolutionType>
-		<Question>Tim buys 10 watches . Jose has 85 red peanuts . Kenya has 48 more red peanuts than Jose . How many red peanuts does Kenya have ?</Question>
-	</Problem>
-	<Problem ID="msds-1452">
-		<Formula>X=85.0+48.0</Formula>
-		<Answer>133</Answer>
-		<SolutionType>Addition</SolutionType>
-		<Question>Jose has 85 red peanuts . Kenya has 48 more red peanuts than Jose . Sandy has 12 peanuts . How many red peanuts does Kenya have ?</Question>
-	</Problem>
-	<Problem ID="msds-1453">
-		<Formula>X=85.0+48.0</Formula>
-		<Answer>133</Answer>
-		<SolutionType>Addition</SolutionType>
-		<Question>Jose has 85 red peanuts and 15 white peanuts . Kenya has 48 more red peanuts than Jose . How many red peanuts does Kenya have ?</Question>
-	</Problem>
 	<Problem ID="msds-1454">
 		<Formula>X=58.0-16.0</Formula>
 		<Answer>42</Answer>
@@ -2152,30 +1876,6 @@
 		<Answer>42</Answer>
 		<SolutionType>Subtraction</SolutionType>
 		<Question>Mrs. Franklin had 58 pink Valentines and 22 red Valentines . Mrs. Franklin gave some pink Valentines to her students . Now she has 16 Valentines . How many pink Valentines did Mrs. Franklin give to her students ?</Question>
-	</Problem>
-	<Problem ID="msds-1458">
-		<Formula>X=65.0-35.0</Formula>
-		<Answer>30</Answer>
-		<SolutionType>Subtraction</SolutionType>
-		<Question>Adolfo made a tower with 35 gray blocks . He added some more blocks and now he has 65 gray blocks . Rita gave 4 presents . How many gray blocks did Adolfo have to add ?</Question>
-	</Problem>
-	<Problem ID="msds-1459">
-		<Formula>X=65.0-35.0</Formula>
-		<Answer>30</Answer>
-		<SolutionType>Subtraction</SolutionType>
-		<Question>Rita gave 4 presents . Adolfo made a tower with 35 gray blocks . He added some more blocks and now he has 65 gray blocks . How many gray blocks did Adolfo have to add ?</Question>
-	</Problem>
-	<Problem ID="msds-1460">
-		<Formula>X=65.0-35.0</Formula>
-		<Answer>30</Answer>
-		<SolutionType>Subtraction</SolutionType>
-		<Question>Adolfo made a tower with 35 gray blocks . He added some more blocks and now he has 65 gray blocks . Rose bought 10 blocks . How many gray blocks did Adolfo have to add ?</Question>
-	</Problem>
-	<Problem ID="msds-1461">
-		<Formula>X=65.0-35.0</Formula>
-		<Answer>30</Answer>
-		<SolutionType>Subtraction</SolutionType>
-		<Question>Adolfo made a tower with 35 gray blocks and 5 blue blocks . He added some more blocks and now he has 65 gray blocks . How many gray blocks did Adolfo have to add ?</Question>
 	</Problem>
 	<Problem ID="msds-1462">
 		<Formula>X=17.0-8.0</Formula>
@@ -2417,29 +2117,23 @@
 		<SolutionType>Multiplication</SolutionType>
 		<Question>There are 37 baskets . There are 17 red apples and 5 green apples in each basket . How many red apples are there in all ?</Question>
 	</Problem>
-	<Problem ID="msds-1509">
-		<Formula>X=1209.0+2186.0</Formula>
-		<Answer>3395</Answer>
-		<SolutionType>Addition</SolutionType>
-		<Question>Jazmin had 1209 big dolls and Geraldine had 2186 big dolls . Dean bought 25 toys . If they put their big dolls together , how many big dolls would they have ?</Question>
+	<Problem ID="msds-1502">
+		<Formula>X=50.0/5.0</Formula>
+		<Answer>10</Answer>
+		<SolutionType>CommonDiv</SolutionType>
+		<Question>Mrs. Hilt has 50 cents . A pencil costs 5 cents . Duke buys 3 erasers . How many pencils can she buy with the money Mrs. Hilt has ?</Question>
 	</Problem>
-	<Problem ID="msds-1510">
-		<Formula>X=1209.0+2186.0</Formula>
-		<Answer>3395</Answer>
-		<SolutionType>Addition</SolutionType>
-		<Question>Dean bought 25 toys . Jazmin had 1209 big dolls and Geraldine had 2186 big dolls . If they put their big dolls together , how many big dolls would they have ?</Question>
+	<Problem ID="msds-1503">
+		<Formula>X=50.0/5.0</Formula>
+		<Answer>10</Answer>
+		<SolutionType>CommonDiv</SolutionType>
+		<Question>Duke buys 3 erasers . Mrs. Hilt has 50 cents . A pencil costs 5 cents . How many pencils can she buy with the money Mrs. Hilt has ?</Question>
 	</Problem>
-	<Problem ID="msds-1511">
-		<Formula>X=1209.0+2186.0</Formula>
-		<Answer>3395</Answer>
-		<SolutionType>Addition</SolutionType>
-		<Question>Jazmin had 1209 big dolls and Geraldine had 2186 big dolls . Jennifer had 35 dolls . If they put their big dolls together , how many big dolls would they have ?</Question>
-	</Problem>
-	<Problem ID="msds-1512">
-		<Formula>X=1209.0+2186.0</Formula>
-		<Answer>3395</Answer>
-		<SolutionType>Addition</SolutionType>
-		<Question>Jazmin had 1209 big dolls and 115 small dolls , Geraldine had 2186 big dolls . If they put their big dolls together , how many big dolls would they have ?</Question>
+	<Problem ID="msds-1504">
+		<Formula>X=50.0/5.0</Formula>
+		<Answer>10</Answer>
+		<SolutionType>CommonDiv</SolutionType>
+		<Question>Mrs. Hilt has 50 cents . A pencil costs 5 cents . Tom has 25 cents . How many pencils can she buy with the money Mrs. Hilt has ?</Question>
 	</Problem>
 	<Problem ID="msds-1517">
 		<Formula>X=58.0-19.0</Formula>
