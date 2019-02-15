@@ -1,4 +1,4 @@
-# Math-Noise-Dataset
+# MWP-Noise-Dataset
 A noisy dataset for solving math word problems, created by the NLU laboratory, Sinica. 
 
 # Publication
